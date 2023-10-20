@@ -1,9 +1,8 @@
 # 웹퍼블리셔 지망생: 최준호
+## "I aspire to become a prospective web publisher."
+깃허브 프로필 소개입니다.
 
-
-
-
-
+경력과 스킬&툴, Portfolio 등 소개가 있습니다.
 
 
 
