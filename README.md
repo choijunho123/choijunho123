@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junho Choi</h1>
 <h3 align="center">"I aspire to become a prospective web publisher."</h3>
 
-- 🔭 I’m currently working on **삼성전자**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **웹디자인 웹퍼블리셔 전문가 5개월 과정**
 
